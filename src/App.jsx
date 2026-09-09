@@ -1,6 +1,6 @@
 import { useState } from "react";
 import Dashboard from "./pages/dashboard.jsx";
-import Login from "./pages/login.jsx";
+import Login from "./pages/Login";
 
 function App() {
   const [loggedIn, setLoggedIn] = useState(false);
