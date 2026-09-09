@@ -1,4 +1,4 @@
-import Sidebar from "../components/sidebar.jsx";
+import Sidebar from "../components/Sidebar";
 import "../App.css"
 
 function Dashboard() {
